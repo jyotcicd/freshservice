@@ -1,3 +1,3 @@
 use database sample;
 
-create or replace schema backup;
+create or replace schema testtest;
